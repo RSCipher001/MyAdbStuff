@@ -153,3 +153,4 @@ adb shell pm uninstall --user 0 com.sec.enterprise.knox.cloudmdm.smdms
 adb shell pm uninstall --user 0 com.sec.location.nsflp2
 adb shell pm uninstall --user 0 com.sec.spp.push
 adb shell pm uninstall --user 0 com.sec.unifiedwfc
+adb shell pm uninstall --user 0 com.samsung.android.spaymini
